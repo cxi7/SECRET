@@ -69,18 +69,7 @@
 			}
 		},
 		
-		{
-			"key": "88看球",
-			"name": "🏀看球┃直播",
-			"type": 3,
-			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
-		},
+		
 		{
 			"key": "csp_Xlys",
 			"name": "🍤哔嘀┃1080P",
@@ -192,8 +181,8 @@
 			"filterable": 1
 		},
 		 {
-      "key": "虎牙直播",
-      "name": "🐯虎牙┃1080P",
+      "key": "tiger",
+      "name": "🐯Tiger┃1080P",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/cxi7/SECRET/refs/heads/main/A.js",
       "searchable": 0,
