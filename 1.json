@@ -182,7 +182,7 @@
 		},
 		{
 			"key": "csp_视觉",
-			"name": "🔭视觉┃PYTHON",
+			"name": "🔭视觉┃1080P",
 			"type": 3,
 			"searchable": 1,
 			"changeable": 1,
@@ -191,9 +191,19 @@
 			"playerType": 2,
 			"filterable": 1
 		},
+		 {
+      "key": "虎牙直播",
+      "name": "🐯虎牙┃1080P",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/cxi7/SECRET/refs/heads/main/A.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/cxi7/SECRET/refs/heads/main/B.js"
+    },
 		{
 			"key": "csp_猎手",
-			"name": "💰猎手┃PYTHON",
+			"name": "💰猎手┃1080P",
 			"type": 3,
 			"searchable": 1,
 			"changeable": 1,
