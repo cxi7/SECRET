@@ -14,6 +14,14 @@
 			"ext": "https://www.subaibaiys.com/"
 		},
 		{
+			"key": "配置",
+			"name": "网盘┃配置中心",
+			"type": 3,
+			"changeable": 0,
+			"searchable": 0,
+			"api": "csp_Config"
+		},
+		{
             "key": "guoguo1",
             "name": "🍓文采┃1080P",
             "type": 3,
