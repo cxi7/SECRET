@@ -70,34 +70,7 @@
 				}
 			}
 		},
-   {
-      "key": "csp_Duopan",
-      "name": "⚡蜡笔┃4K",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt;md5;ac47ab523e82a62663f3f8665ad85c3e",
-      "ext": {
-        "site_urls": [
-          "https://duopan.fun",
-          "http://labipan.com",
-          "http://feimaoai.site",
-          "https://mihdr.top"
-        ],
-        "url_key": "Duopan2"
-      }
-    },
-    {
-      "key": "alllive",
-      "name": "📽️一直播┃直播",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
- "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-    },
+   
 		{"key":"drpy_js_厂长资源","name":"🍧厂长┃1080P","type":3,"api":"https://www.100km.top/lib/drpy2.min.js","ext":"https://www.100km.top/js/厂长资源.js"},
 		{
 
