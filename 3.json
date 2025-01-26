@@ -2,27 +2,7 @@
 	"spider": "https://ghfast.top/https://raw.github.com/cxi7/SECRET/refs/heads/main/1.png",
 
 	"sites": [
-    {
-      "key": "豆瓣",
-      "name": "🤓公众号┃OK猫开发",
-      "type": 3,
-      "api": "csp_DoubanGuard",
-      "searchable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "配置中心",
-      "name": "👨‍🍳‍配置┃中心",
-      "type": 3,
-      "api": "csp_ConfigGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
+    
     {
       "key": "玩偶弹幕版",
       "name": "👽玩偶┃弹幕",
