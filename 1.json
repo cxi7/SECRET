@@ -158,7 +158,18 @@
             "api": "csp_MiTuApp",
             "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA=="
         },
-{
+
+			"style": {
+
+				"type": "rect",
+
+				"ratio": 1.333
+
+			}
+
+		},
+
+		{
 
 			"key": "csp_Bili",
 
@@ -178,17 +189,6 @@
 
 			},
 
-			"style": {
-
-				"type": "rect",
-
-				"ratio": 1.333
-
-			}
-
-		},
-
-		
 
 		{
 			"key": "csp_良人",
