@@ -158,6 +158,36 @@
             "api": "csp_MiTuApp",
             "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA=="
         },
+{
+
+			"key": "csp_Bili",
+
+			"name": "🆎哔哩┃哔哩",
+
+			"type": 3,
+
+			"api": "csp_Bili",
+
+			"playerType": 2,
+
+			"ext": {
+
+				"json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
+
+				"cookie": ""
+
+			},
+
+			"style": {
+
+				"type": "rect",
+
+				"ratio": 1.333
+
+			}
+
+		},
+
 		
 
 		{
