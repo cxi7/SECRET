@@ -200,6 +200,25 @@
       "api": "csp_MiSou",
       "ext": ""
     },
+     {
+
+      "key": "tiger",
+
+      "name": "🐯Tiger┃1080P",
+
+      "type": 3,
+
+      "api": "https://ghfast.top/https://raw.github.com/cxi7/SECRET/refs/heads/main/A.js",
+
+      "searchable": 0,
+
+      "quickSearch": 0,
+
+      "filterable": 0,
+
+      "ext": "https://ghfast.top/https://raw.github.com/cxi7/SECRET/refs/heads/main/B.js"
+
+    },
     {
       "key": "csp_LaoBaiBook",
       "name": "📚老白┃听书",
